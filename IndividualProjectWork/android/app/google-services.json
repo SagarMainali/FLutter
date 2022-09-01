@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606345063401",
+    "project_id": "indi-pro-79dfe",
+    "storage_bucket": "indi-pro-79dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606345063401:android:b476f3921c4781c1c8b978",
+        "android_client_info": {
+          "package_name": "com.example.document_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606345063401-3k59j18r8o7q6cj8ojdupn4m8mju53gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGizpAWoeUkoSS-Mjso3yWG7iveRW4jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606345063401-3k59j18r8o7q6cj8ojdupn4m8mju53gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
